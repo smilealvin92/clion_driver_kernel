@@ -1,0 +1,3 @@
+/home/alvin/下载/开源代码/cmake-kernel-module-ubuntu-clion-ide/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alvin/下载/开源代码/cmake-kernel-module-ubuntu-clion-ide/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alvin/下载/开源代码/cmake-kernel-module-ubuntu-clion-ide/cmake-build-debug/CMakeFiles/dummy.dir

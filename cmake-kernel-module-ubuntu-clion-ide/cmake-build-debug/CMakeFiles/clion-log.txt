@@ -1,0 +1,12 @@
+/snap/clion/178/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/178/bin/ninja/linux/ninja -G Ninja /home/alvin/下载/开源代码/cmake-kernel-module-ubuntu-clion-ide
+-- The C compiler identification is GNU 7.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Kernel release: 4.15.0-48-generic
+-- Kernel headers: /usr/src/linux-headers-4.15.0-48-generic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alvin/下载/开源代码/cmake-kernel-module-ubuntu-clion-ide/cmake-build-debug
